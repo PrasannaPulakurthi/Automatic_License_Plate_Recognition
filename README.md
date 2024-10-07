@@ -1,1 +1,3 @@
 Automatic License Plate Recognition
+
+The Automatic License Plate Recognition (ALPR) project, implemented in MATLAB, automates the detection and recognition of vehicle license plates using image processing techniques. The system locates the license plate by first applying an edge filter followed by an edge histogram count to identify the plate region. For character recognition, it uses template matching, comparing each character against fixed templates and recognizing the closest match. This process, which includes image preprocessing, plate localization, and character recognition, is designed for applications like traffic management, parking systems, toll booths, and surveillance, providing an efficient solution for vehicle identification.
